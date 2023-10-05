@@ -1,0 +1,140 @@
+ body{
+    margin: 0%;
+ }
+header{
+    background-color: #6e6969b4;
+    height: 150px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    
+}
+
+.XEDER{
+    background-color: #deb67b;
+    height: 550px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Blok{
+    
+    background-color: #ea7979;
+    width: 1170px;
+    height: 530px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.foto{
+    
+    background-color: rgb(20, 193, 121);
+    width: 1170px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 18pt;
+}
+.fon2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ea7979;
+    width: 1170px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+    
+
+.foto2 {
+    background-color: #5e49f9;
+    width: 360px;
+    height: 350px;
+    margin: 10px;
+    background-image: url('https://th.bing.com/th/id/R.3c827067556063c476793685c9bdab85?rik=DZubhYPhoJq9SA&riu=http%3a%2f%2fimages.china.cn%2fattachement%2fjpg%2fsite1002%2f20160719%2f7427ea210a0f18f8224b0d.jpg&ehk=Ql6OHM%2bccfCoV2varITZF09D3l4FMWVT9BjPhqEo6ZQ%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.Opus{
+    background-color: #5e49f9;
+    width: 720px;
+    height: 350px;
+    margin: 10px;  
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 18pt;
+    
+}
+.Blok3{
+    background-color: #ea7979;
+    height: 468px;
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+}
+.dosag{
+    background-color: rgb(242, 168, 30);
+    width: 100%;
+    height: 360px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(54, 55, 54);
+    width: 100%; 
+    height: 400px;
+    color: #ffffff;
+}
+
+.ext{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    margin-top: -30px;
+}
+.text{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 18pt;
+    margin-bottom: 30px;
+}
+.text2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 18pt;
+    height: 1px; 
+   
+}
